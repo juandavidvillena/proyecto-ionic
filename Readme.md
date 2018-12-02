@@ -3,7 +3,7 @@ Mi aplicación se llama GymApp y trata de un gestor de actividades diario el cua
 <br> Podeis encontrar el video demostracion en el siguiente enlace : https://youtu.be/e8sfgBaDfnk  
 
 <h1> Capturas orientativas de la aplicación</h1>
-<img src="cap1.png"></img>
-<img src="cap3.png"></img>
-<img src="cap2.png"></img>
-<img src="cap4.png"></img>
+<img src="cap1.PNG"></img>
+<img src="cap3.PNG"></img>
+<img src="cap2.PNG"></img>
+<img src="cap4.PNG"></img>
