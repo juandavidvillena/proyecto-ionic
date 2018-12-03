@@ -3,7 +3,12 @@ Mi aplicación se llama GymApp y trata de un gestor de actividades diario el cua
 <br> Podeis encontrar el video demostracion en el siguiente enlace : https://youtu.be/e8sfgBaDfnk  
 
 <h1> Capturas orientativas de la aplicación</h1>
+<h3>Bienvenidos a GymApp</h3>
 <img src="cap1.PNG"></img>
+<h3>Lista de entrenamientos con funcionalidad de ordenar</h3>
 <img src="cap3.PNG"></img>
+<h3>Crear/editar una sesion de entrenamiento</h3>
 <img src="cap2.PNG"></img>
+<h3>Ventana modal con restrinciones para creaar una actividad</h3>
 <img src="cap4.PNG"></img>
+<h5>Trabajo realizado por Juan David Villena Gil Proyecto (fin de asignatura)</h5> 
